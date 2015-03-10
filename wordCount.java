@@ -2,6 +2,7 @@
  * The HelloWorldApp class implements an application that
  * simply displays "Hello World!" to the standard output.
  * Some more comments...
+ * More stuff in here.
  */
 
 import java.io.File;
